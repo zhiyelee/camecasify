@@ -1,11 +1,11 @@
-# camelCasify
+# camelcasify
 
 Convert an object to camel case
 
 ## Usage
 
 ```js
-const camelCasify = require('camelCasify');
+const camelcasify = require('camelcasify');
 
   const src = {
     content_id: 123,
@@ -23,7 +23,7 @@ const camelCasify = require('camelCasify');
     }
   };
 
-console.log(camelCasify(src));
+console.log(camelcasify(src));
 // output
 /**
   {
@@ -44,6 +44,3 @@ console.log(camelCasify(src));
 **/
 
 ```
-
-## LICENCE
-MIT
