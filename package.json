@@ -1,5 +1,5 @@
 {
-  "name": "camelcasify",
+  "name": "camelCasify",
   "version": "1.0.1",
   "description": "Convert object to camel case.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhiyelee/camelcasify.git"
+    "url": "git+https://github.com/zhiyelee/camelCasify.git"
   },
   "keywords": [
     "camel",
@@ -19,9 +19,9 @@
   "author": "zhiyelee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhiyelee/camelcasify/issues"
+    "url": "https://github.com/zhiyelee/camelCasify/issues"
   },
-  "homepage": "https://github.com/zhiyelee/camelcasify#readme",
+  "homepage": "https://github.com/zhiyelee/camelCasify#readme",
   "dependencies": {
     "camelcase": "^2.1.0"
   },
