@@ -1,4 +1,5 @@
 # camelcasify
+[![Build Status](https://travis-ci.org/zhiyelee/camelcasify.svg?branch=master)](https://travis-ci.org/zhiyelee/camelcasify)
 
 Convert an object to camel case
 
@@ -44,3 +45,6 @@ console.log(camelcasify(src));
 **/
 
 ```
+
+## LICENCE
+MIT
