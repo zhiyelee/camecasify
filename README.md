@@ -1,5 +1,5 @@
 # camelcasify
-[![Build Status](https://travis-ci.org/zhiyelee/camelcasify.svg?branch=master)](https://travis-ci.org/zhiyelee/camelcasify)
+[![Build Status](https://travis-ci.org/zhiyelee/camelCasify.svg?branch=master)](https://travis-ci.org/zhiyelee/camelCasify)
 
 Convert an object to camel case
 
